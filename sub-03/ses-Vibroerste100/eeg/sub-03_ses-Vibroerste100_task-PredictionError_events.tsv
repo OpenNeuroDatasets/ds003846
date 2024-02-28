@@ -1,0 +1,501 @@
+onset	duration	sample	type	value
+12.024213213252	0	6013	block:start	block:start;currentBlockNr:1;condition:vibro;training:false
+18.9583361690645	0	9480	box:spawned	box:spawned;condition:vibro;trial_nr:1;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.308932
+19.818351418848	0	9910	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8497427;trial_nr:1;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.308932;vibro_duration:0.1
+19.818351418848	0	9910	box:touched	box:touched;condition:vibro;reaction_time:0.8497427;trial_nr:1;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.308932
+19.9183531920787	0	9960	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1000166
+22.308395572291	0	11155	Markers	visualFeedback:off
+25.2144471023733	0	12608	box:spawned	box:spawned;condition:vibro;trial_nr:2;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.977659
+26.1504636998121	0	13076	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.9270031;trial_nr:2;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.977659;vibro_duration:0.1
+26.1504636998121	0	13076	box:touched	box:touched;condition:vibro;reaction_time:0.9270031;trial_nr:2;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.977659
+26.254465543972	0	13128	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1046989
+28.6425078887196	0	14322	Markers	visualFeedback:off
+30.7085445236646	0	15355	box:spawned	box:spawned;condition:vibro;trial_nr:3;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.461043
+31.6005603408819	0	15801	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8822882;trial_nr:3;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.461043;vibro_duration:0.1
+31.6005603408819	0	15801	box:touched	box:touched;condition:vibro;reaction_time:0.8822882;trial_nr:3;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.461043
+31.7025621495772	0	15852	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008936
+34.0946045652541	0	17048	Markers	visualFeedback:off
+35.9246370153748	0	17963	box:spawned	box:spawned;condition:vibro;trial_nr:4;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.17745
+36.460646519891	0	18231	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5247145;trial_nr:4;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.17745;vibro_duration:0.1
+36.460646519891	0	18231	box:touched	box:touched;condition:vibro;reaction_time:0.5247145;trial_nr:4;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.17745
+36.5646483640509	0	18283	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1010623
+38.9506906733339	0	19476	Markers	visualFeedback:off
+41.5987376284812	0	20800	box:spawned	box:spawned;condition:vibro;trial_nr:5;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.995903
+42.3347506794587	0	21168	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7261493;trial_nr:5;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.995903;vibro_duration:0.1
+42.3367507149233	0	21169	box:touched	box:touched;condition:vibro;reaction_time:0.7261493;trial_nr:5;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.995903
+42.436752488154	0	21219	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1009383
+44.8267948683662	0	22414	Markers	visualFeedback:off
+46.6688275312746	0	23335	box:spawned	box:spawned;condition:vibro;trial_nr:6;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.039629
+47.2948386316984	0	23648	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6141105;trial_nr:6;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.039629;vibro_duration:0.1
+47.2948386316984	0	23648	box:touched	box:touched;condition:vibro;reaction_time:0.6141105;trial_nr:6;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.039629
+47.3948404049291	0	23698	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1007384
+49.7868828206059	0	24894	Markers	visualFeedback:off
+52.1429245979198	0	26072	box:spawned	box:spawned;condition:vibro;trial_nr:7;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.633022
+52.8789376488973	0	26440	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7263963;trial_nr:7;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.633022;vibro_duration:0.1
+52.8789376488973	0	26440	box:touched	box:touched;condition:vibro;reaction_time:0.7263963;trial_nr:7;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.633022
+52.9809394575926	0	26491	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008601
+55.3709818378048	0	27686	Markers	visualFeedback:off
+57.0670119117965	0	28534	box:spawned	box:spawned;condition:vibro;trial_nr:8;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.030859
+57.9610277644784	0	28981	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8826036;trial_nr:8;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.030859;vibro_duration:0.1
+57.9610277644784	0	28981	box:touched	box:touched;condition:vibro;reaction_time:0.8826036;trial_nr:8;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.030859
+58.0630295731736	0	29032	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006637
+60.4530719533859	0	30227	Markers	visualFeedback:off
+62.1511020628422	0	31076	box:spawned	box:spawned;condition:vibro;trial_nr:9;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.055835
+62.7191121347922	0	31360	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5585594;trial_nr:9;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.055835;vibro_duration:0.1
+62.7191121347922	0	31360	box:touched	box:touched;condition:vibro;reaction_time:0.5585594;trial_nr:9;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.055835
+62.823113978952	0	31412	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003485
+65.2111563236997	0	32606	Markers	visualFeedback:off
+67.8472030660594	0	33924	box:spawned	box:spawned;condition:vibro;trial_nr:10;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885772
+68.5492155141384	0	34275	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6930201;trial_nr:10;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885772;vibro_duration:0.1
+68.551215549603	0	34276	box:touched	box:touched;condition:vibro;reaction_time:0.6930201;trial_nr:10;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885772
+68.6512173228337	0	34326	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1028389
+71.041259703046	0	35521	Markers	visualFeedback:off
+73.5313038564889	0	36766	box:spawned	box:spawned;condition:vibro;trial_nr:11;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.690297
+74.3813189289493	0	37191	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8374135;trial_nr:11;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.690297;vibro_duration:0.1
+74.3813189289493	0	37191	box:touched	box:touched;condition:vibro;reaction_time:0.8374135;trial_nr:11;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.690297
+74.4793206667153	0	37240	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005223
+76.8733631178568	0	38437	Markers	visualFeedback:off
+80.0214189391573	0	40011	box:spawned	box:spawned;condition:vibro;trial_nr:12;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.820521
+80.9154347918393	0	40458	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8847928;trial_nr:12;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.820521;vibro_duration:0.1
+80.9154347918393	0	40458	box:touched	box:touched;condition:vibro;reaction_time:0.8847928;trial_nr:12;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.820521
+81.0274367778576	0	40514	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1093879
+83.4074789807468	0	41704	Markers	visualFeedback:off
+86.1415274608725	0	43071	box:spawned	box:spawned;condition:vibro;trial_nr:13;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.994571
+86.9575419304345	0	43479	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.80494;trial_nr:13;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.994571;vibro_duration:0.1
+86.9575419304345	0	43479	box:touched	box:touched;condition:vibro;reaction_time:0.80494;trial_nr:13;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.994571
+87.0575437036651	0	43529	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.103874
+89.4475860838774	0	44724	Markers	visualFeedback:off
+92.3356372947782	0	46168	box:spawned	box:spawned;condition:vibro;trial_nr:14;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.927992
+92.7976454871038	0	46399	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.451854;trial_nr:14;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.927992;vibro_duration:0.1
+92.7996455225684	0	46400	box:touched	box:touched;condition:vibro;reaction_time:0.451854;trial_nr:14;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.927992
+92.899647295799	0	46450	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1027216
+95.2896896760113	0	47645	Markers	visualFeedback:off
+97.3777267010671	0	48689	box:spawned	box:spawned;condition:vibro;trial_nr:15;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.517656
+98.1157397875092	0	49058	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7260869;trial_nr:15;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.517656;vibro_duration:0.1
+98.1157397875092	0	49058	box:touched	box:touched;condition:vibro;reaction_time:0.7260869;trial_nr:15;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.517656
+98.2157415607398	0	49108	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1013882
+100.607783976417	0	50304	Markers	visualFeedback:off
+102.727821568906	0	51364	box:spawned	box:spawned;condition:vibro;trial_nr:16;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.350099
+103.43183405245	0	51716	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6932094;trial_nr:16;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.350099;vibro_duration:0.1
+103.43183405245	0	51716	box:touched	box:touched;condition:vibro;reaction_time:0.6932094;trial_nr:16;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.350099
+103.543836038468	0	51772	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1112711
+105.923878241357	0	52962	Markers	visualFeedback:off
+107.777911117054	0	53889	box:spawned	box:spawned;condition:vibro;trial_nr:17;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.088162
+108.503923990708	0	54252	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7162375;trial_nr:17;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.088162;vibro_duration:0.1
+108.503923990708	0	54252	box:touched	box:touched;condition:vibro;reaction_time:0.7162375;trial_nr:17;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.088162
+108.615925976726	0	54308	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.11072
+110.995968179615	0	55498	Markers	visualFeedback:off
+113.138006162216	0	56569	box:spawned	box:spawned;condition:vibro;trial_nr:18;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.250561
+113.930020206202	0	56965	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7820659;trial_nr:18;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.250561;vibro_duration:0.1
+113.930020206202	0	56965	box:touched	box:touched;condition:vibro;reaction_time:0.7820659;trial_nr:18;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.250561
+114.032022014898	0	57016	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006203
+116.42206439511	0	58211	Markers	visualFeedback:off
+118.554102200387	0	59277	box:spawned	box:spawned;condition:vibro;trial_nr:19;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.302079
+119.348116279838	0	59674	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7817988;trial_nr:19;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.302079;vibro_duration:0.1
+119.348116279838	0	59674	box:touched	box:touched;condition:vibro;reaction_time:0.7817988;trial_nr:19;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.302079
+119.454118159463	0	59727	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1007743
+121.840160468746	0	60920	Markers	visualFeedback:off
+123.80619533046	0	61903	box:spawned	box:spawned;condition:vibro;trial_nr:20;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.265141
+124.362205189623	0	62181	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5481038;trial_nr:20;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.265141;vibro_duration:0.1
+124.364205225087	0	62182	box:touched	box:touched;condition:vibro;reaction_time:0.5481038;trial_nr:20;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.265141
+124.466207033783	0	62233	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1040344
+126.85424937853	0	63427	Markers	visualFeedback:off
+129.580297716797	0	64790	box:spawned	box:spawned;condition:vibro;trial_nr:21;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.928167
+130.372311760784	0	65186	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7822461;trial_nr:21;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.928167;vibro_duration:0.1
+130.372311760784	0	65186	box:touched	box:touched;condition:vibro;reaction_time:0.7822461;trial_nr:21;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.928167
+130.474313569479	0	65237	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1034082
+132.864355949692	0	66432	Markers	visualFeedback:off
+135.332399713024	0	67666	box:spawned	box:spawned;condition:vibro;trial_nr:22;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.474193
+136.25841613314	0	68129	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.9164064;trial_nr:22;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.474193;vibro_duration:0.1
+136.260416168604	0	68130	box:touched	box:touched;condition:vibro;reaction_time:0.9164064;trial_nr:22;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.474193
+136.360417941835	0	68180	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008395
+138.750460322047	0	69375	Markers	visualFeedback:off
+141.464508447527	0	70732	box:spawned	box:spawned;condition:vibro;trial_nr:23;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.772482
+142.356524264744	0	71178	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8823678;trial_nr:23;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.772482;vibro_duration:0.1
+142.356524264744	0	71178	box:touched	box:touched;condition:vibro;reaction_time:0.8823678;trial_nr:23;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.772482
+142.458526073439	0	71229	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1018588
+144.848568453651	0	72424	Markers	visualFeedback:off
+146.926605301384	0	73463	box:spawned	box:spawned;condition:vibro;trial_nr:24;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.306053
+147.460614770436	0	73730	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.525084;trial_nr:24;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.306053;vibro_duration:0.1
+147.4626148059	0	73731	box:touched	box:touched;condition:vibro;reaction_time:0.525084;trial_nr:24;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.306053
+147.564616614596	0	73782	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006341
+149.954658994808	0	74977	Markers	visualFeedback:off
+152.264699956436	0	76132	box:spawned	box:spawned;condition:vibro;trial_nr:25;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.556366
+153.046713823099	0	76523	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7702057;trial_nr:25;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.556366;vibro_duration:0.1
+153.046713823099	0	76523	box:touched	box:touched;condition:vibro;reaction_time:0.7702057;trial_nr:25;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.556366
+153.148715631794	0	76574	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003998
+155.536757976542	0	77768	Markers	visualFeedback:off
+157.504792873721	0	78752	box:spawned	box:spawned;condition:vibro;trial_nr:26;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.177761
+158.026802129985	0	79013	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5132661;trial_nr:26;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.177761;vibro_duration:0.1
+158.026802129985	0	79013	box:touched	box:touched;condition:vibro;reaction_time:0.5132661;trial_nr:26;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.177761
+158.12880393868	0	79064	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.100819
+160.518846318893	0	80259	Markers	visualFeedback:off
+164.226912070285	0	82113	box:spawned	box:spawned;condition:vibro;trial_nr:27;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.047747
+165.086927320068	0	82543	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8483877;trial_nr:27;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.047747;vibro_duration:0.1
+165.086927320068	0	82543	box:touched	box:touched;condition:vibro;reaction_time:0.8483877;trial_nr:27;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.047747
+165.186929093299	0	82593	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1007961
+167.578971508976	0	83789	Markers	visualFeedback:off
+172.415057262409	0	86207	box:spawned	box:spawned;condition:vibro;trial_nr:28;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.360364
+173.185070916285	0	86592	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7599218;trial_nr:28;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.360364;vibro_duration:0.1
+173.185070916285	0	86592	box:touched	box:touched;condition:vibro;reaction_time:0.7599218;trial_nr:28;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.360364
+173.297072902304	0	86648	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1112707
+175.675115069728	0	87837	Markers	visualFeedback:off
+180.187195077895	0	90093	box:spawned	box:spawned;condition:vibro;trial_nr:29;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.977773
+180.801205965531	0	90400	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6039546;trial_nr:29;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.977773;vibro_duration:0.1
+180.803206000995	0	90401	box:touched	box:touched;condition:vibro;reaction_time:0.6039546;trial_nr:29;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.977773
+180.90920788062	0	90454	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1011394
+183.293250154438	0	91646	Markers	visualFeedback:off
+185.81729491078	0	92908	box:spawned	box:spawned;condition:vibro;trial_nr:30;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.452594
+186.575308351868	0	93287	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7488844;trial_nr:30;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.452594;vibro_duration:0.1
+186.577308387332	0	93288	box:touched	box:touched;condition:vibro;reaction_time:0.7488844;trial_nr:30;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.452594
+186.677310160563	0	93338	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008249
+189.06935257624	0	94534	Markers	visualFeedback:off
+191.077388182711	0	95538	box:spawned	box:spawned;condition:vibro;trial_nr:31;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.371617
+191.825401446476	0	95912	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7375553;trial_nr:31;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.371617;vibro_duration:0.1
+191.825401446476	0	95912	box:touched	box:touched;condition:vibro;reaction_time:0.7375553;trial_nr:31;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.371617
+191.929403290636	0	95964	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1060259
+194.319445670849	0	97159	Markers	visualFeedback:off
+196.407482695904	0	98203	box:spawned	box:spawned;condition:vibro;trial_nr:32;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.289519
+197.165496136993	0	98582	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7479515;trial_nr:32;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.289519;vibro_duration:0.1
+197.165496136993	0	98582	box:touched	box:touched;condition:vibro;reaction_time:0.7479515;trial_nr:32;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.289519
+197.269497981152	0	98634	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1069274
+199.6575403259	0	99828	Markers	visualFeedback:off
+201.991581713103	0	100995	box:spawned	box:spawned;condition:vibro;trial_nr:33;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.578474
+202.671593771071	0	101335	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6709404;trial_nr:33;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.578474;vibro_duration:0.1
+202.671593771071	0	101335	box:touched	box:touched;condition:vibro;reaction_time:0.6709404;trial_nr:33;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.578474
+202.773595579767	0	101386	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1004713
+205.163637959979	0	102581	Markers	visualFeedback:off
+206.983670232777	0	103491	box:spawned	box:spawned;condition:vibro;trial_nr:34;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.186934
+207.495679311718	0	103747	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5037308;trial_nr:34;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.186934;vibro_duration:0.1
+207.497679347182	0	103748	box:touched	box:touched;condition:vibro;reaction_time:0.5037308;trial_nr:34;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.186934
+207.597681120413	0	103798	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1000822
+209.98972353609	0	104994	Markers	visualFeedback:off
+212.445767086634	0	106222	box:spawned	box:spawned;condition:vibro;trial_nr:35;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.613283
+213.181780137612	0	106590	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7268445;trial_nr:35;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.613283;vibro_duration:0.1
+213.181780137612	0	106590	box:touched	box:touched;condition:vibro;reaction_time:0.7268445;trial_nr:35;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.613283
+213.285781981772	0	106642	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1043263
+215.673824326519	0	107836	Markers	visualFeedback:off
+218.945882346626	0	109472	box:spawned	box:spawned;condition:vibro;trial_nr:36;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.626628
+219.703895787714	0	109851	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7486598;trial_nr:36;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.626628;vibro_duration:0.1
+219.705895823179	0	109852	box:touched	box:touched;condition:vibro;reaction_time:0.7486598;trial_nr:36;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.626628
+219.807897631874	0	109903	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.101022
+222.195939976621	0	111097	Markers	visualFeedback:off
+224.251976434243	0	112125	box:spawned	box:spawned;condition:vibro;trial_nr:37;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.267439
+225.031990265442	0	112515	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7712724;trial_nr:37;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.267439;vibro_duration:0.1
+225.033990300907	0	112516	box:touched	box:touched;condition:vibro;reaction_time:0.7712724;trial_nr:37;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.267439
+225.145992286925	0	112572	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1117408
+227.528034525279	0	113763	Markers	visualFeedback:off
+229.892076444451	0	114945	box:spawned	box:spawned;condition:vibro;trial_nr:38;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.694095
+230.640089708217	0	115319	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.736989;trial_nr:38;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.694095;vibro_duration:0.1
+230.640089708217	0	115319	box:touched	box:touched;condition:vibro;reaction_time:0.736989;trial_nr:38;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.694095
+230.740091481447	0	115369	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1016379
+233.132133897124	0	116565	Markers	visualFeedback:off
+235.488175674438	0	117743	box:spawned	box:spawned;condition:vibro;trial_nr:39;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.583488
+236.502193654997	0	118250	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:1.004874;trial_nr:39;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.583488;vibro_duration:0.1
+236.504193690461	0	118251	box:touched	box:touched;condition:vibro;reaction_time:1.004874;trial_nr:39;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.583488
+236.608195534621	0	118303	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1037614
+238.996237879369	0	119497	Markers	visualFeedback:off
+241.574283593255	0	120786	box:spawned	box:spawned;condition:vibro;trial_nr:40;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.884473
+242.16629409078	0	121082	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5804644;trial_nr:40;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.884473;vibro_duration:0.1
+242.168294126245	0	121083	box:touched	box:touched;condition:vibro;reaction_time:0.5804644;trial_nr:40;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.884473
+242.268295899475	0	121133	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1009023
+244.658338279688	0	122328	Markers	visualFeedback:off
+247.338385802269	0	123668	box:spawned	box:spawned;condition:vibro;trial_nr:41;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.98756
+248.36640403108	0	124182	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:1.016612;trial_nr:41;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.98756;vibro_duration:0.1
+248.36640403108	0	124182	box:touched	box:touched;condition:vibro;reaction_time:1.016612;trial_nr:41;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.98756
+248.468405839775	0	124233	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1038278
+250.856448184523	0	125427	Markers	visualFeedback:off
+253.056487195597	0	126527	box:spawned	box:spawned;condition:vibro;trial_nr:42;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.194242
+253.794500282039	0	126896	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7263832;trial_nr:42;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.194242;vibro_duration:0.1
+253.794500282039	0	126896	box:touched	box:touched;condition:vibro;reaction_time:0.7263832;trial_nr:42;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.194242
+253.896502090734	0	126947	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005302
+256.286544470946	0	128142	Markers	visualFeedback:off
+258.452582879122	0	129225	box:spawned	box:spawned;condition:vibro;trial_nr:43;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.500332
+259.368599121915	0	129683	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.904794;trial_nr:43;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.500332;vibro_duration:0.1
+259.368599121915	0	129683	box:touched	box:touched;condition:vibro;reaction_time:0.904794;trial_nr:43;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.500332
+259.468600895145	0	129733	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1021041
+261.858643275358	0	130928	Markers	visualFeedback:off
+264.338687251477	0	132168	box:spawned	box:spawned;condition:vibro;trial_nr:44;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.688625
+264.872696720529	0	132435	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5255308;trial_nr:44;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.688625;vibro_duration:0.1
+264.872696720529	0	132435	box:touched	box:touched;condition:vibro;reaction_time:0.5255308;trial_nr:44;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.688625
+264.974698529224	0	132486	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1002884
+267.364740909436	0	133681	Markers	visualFeedback:off
+269.832784672769	0	134915	box:spawned	box:spawned;condition:vibro;trial_nr:45;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.758384
+270.648799142331	0	135323	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8048141;trial_nr:45;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.758384;vibro_duration:0.1
+270.648799142331	0	135323	box:touched	box:touched;condition:vibro;reaction_time:0.8048141;trial_nr:45;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.758384
+270.750800951026	0	135374	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1010742
+273.140843331238	0	136569	Markers	visualFeedback:off
+275.262880959192	0	137630	box:spawned	box:spawned;condition:vibro;trial_nr:46;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.170158
+275.796890428244	0	137897	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.525444;trial_nr:46;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.170158;vibro_duration:0.1
+275.796890428244	0	137897	box:touched	box:touched;condition:vibro;reaction_time:0.525444;trial_nr:46;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.170158
+275.898892236939	0	137948	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1009351
+278.288934617151	0	139143	Markers	visualFeedback:off
+280.49097366369	0	140244	box:spawned	box:spawned;condition:vibro;trial_nr:47;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.640283
+281.270987494889	0	140634	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7704866;trial_nr:47;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.640283;vibro_duration:0.1
+281.270987494889	0	140634	box:touched	box:touched;condition:vibro;reaction_time:0.7704866;trial_nr:47;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.640283
+281.372989303584	0	140685	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003405
+283.763031683797	0	141880	Markers	visualFeedback:off
+286.43107899359	0	143214	box:spawned	box:spawned;condition:vibro;trial_nr:48;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.832878
+287.235093250364	0	143616	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7937396;trial_nr:48;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.832878;vibro_duration:0.1
+287.235093250364	0	143616	box:touched	box:touched;condition:vibro;reaction_time:0.7937396;trial_nr:48;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.832878
+287.33709505906	0	143667	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1032917
+289.727137439272	0	144862	Markers	visualFeedback:off
+292.339183756056	0	146168	box:spawned	box:spawned;condition:vibro;trial_nr:49;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.914365
+292.88719347336	0	146442	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5363626;trial_nr:49;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.914365;vibro_duration:0.1
+292.88719347336	0	146442	box:touched	box:touched;condition:vibro;reaction_time:0.5363626;trial_nr:49;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.914365
+292.989195282055	0	146493	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005057
+295.379237662268	0	147688	Markers	visualFeedback:off
+297.723279226794	0	148860	box:spawned	box:spawned;condition:vibro;trial_nr:50;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.732907
+298.527293483568	0	149262	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7928989;trial_nr:50;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.732907;vibro_duration:0.1
+298.527293483568	0	149262	box:touched	box:touched;condition:vibro;reaction_time:0.7928989;trial_nr:50;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.732907
+298.629295292263	0	149313	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1001272
+301.019337672476	0	150508	Markers	visualFeedback:off
+302.895370938283	0	151446	box:spawned	box:spawned;condition:vibro;trial_nr:51;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.107404
+303.653384379371	0	151825	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7490764;trial_nr:51;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.107404;vibro_duration:0.1
+303.655384414835	0	151826	box:touched	box:touched;condition:vibro;reaction_time:0.7490764;trial_nr:51;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.107404
+303.755386188066	0	151876	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1002039
+306.145428568278	0	153071	Markers	visualFeedback:off
+308.267466196232	0	154132	box:spawned	box:spawned;condition:vibro;trial_nr:52;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.56981
+309.00347924721	0	154500	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7259524;trial_nr:52;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.56981;vibro_duration:0.1
+309.005479282675	0	154501	box:touched	box:touched;condition:vibro;reaction_time:0.7259524;trial_nr:52;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.56981
+309.105481055905	0	154551	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006704
+311.495523436117	0	155746	Markers	visualFeedback:off
+313.315555708915	0	156656	box:spawned	box:spawned;condition:vibro;trial_nr:53;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.129459
+314.107569752902	0	157052	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7818246;trial_nr:53;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.129459;vibro_duration:0.1
+314.109569788366	0	157053	box:touched	box:touched;condition:vibro;reaction_time:0.7818246;trial_nr:53;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.129459
+314.209571561597	0	157103	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1002884
+316.599613941809	0	158298	Markers	visualFeedback:off
+319.02365692492	0	159510	box:spawned	box:spawned;condition:vibro;trial_nr:54;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.841266
+319.525665826538	0	159761	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.4910145;trial_nr:54;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.841266;vibro_duration:0.1
+319.525665826538	0	159761	box:touched	box:touched;condition:vibro;reaction_time:0.4910145;trial_nr:54;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.841266
+319.629667670698	0	159813	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1041762
+322.017710015445	0	161007	Markers	visualFeedback:off
+324.47375356599	0	162235	box:spawned	box:spawned;condition:vibro;trial_nr:55;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.806921
+325.143765446635	0	162570	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6598318;trial_nr:55;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.806921;vibro_duration:0.1
+325.143765446635	0	162570	box:touched	box:touched;condition:vibro;reaction_time:0.6598318;trial_nr:55;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.806921
+325.24976732626	0	162623	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1000707
+327.635809635543	0	163816	Markers	visualFeedback:off
+329.523843114137	0	164760	box:spawned	box:spawned;condition:vibro;trial_nr:56;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.182617
+330.213855349429	0	165105	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6811662;trial_nr:56;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.182617;vibro_duration:0.1
+330.215855384893	0	165106	box:touched	box:touched;condition:vibro;reaction_time:0.6811662;trial_nr:56;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.182617
+330.315857158124	0	165156	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1004433
+332.705899538336	0	166351	Markers	visualFeedback:off
+335.051941138327	0	167524	box:spawned	box:spawned;condition:vibro;trial_nr:57;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.697536
+335.805954508486	0	167901	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7378368;trial_nr:57;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.697536;vibro_duration:0.1
+335.80795454395	0	167902	box:touched	box:touched;condition:vibro;reaction_time:0.7378368;trial_nr:57;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.697536
+335.901956210787	0	167949	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1001632
+338.291998591	0	169144	Markers	visualFeedback:off
+340.256033417249	0	170126	box:spawned	box:spawned;condition:vibro;trial_nr:58;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.234977
+340.938045510682	0	170467	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6702948;trial_nr:58;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.234977;vibro_duration:0.1
+340.938045510682	0	170467	box:touched	box:touched;condition:vibro;reaction_time:0.6702948;trial_nr:58;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.234977
+341.040047319377	0	170518	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1046017
+343.43008969959	0	171713	Markers	visualFeedback:off
+345.574127717655	0	172785	box:spawned	box:spawned;condition:vibro;trial_nr:59;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.544605
+346.254139775623	0	173125	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6695504;trial_nr:59;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.544605;vibro_duration:0.1
+346.254139775623	0	173125	box:touched	box:touched;condition:vibro;reaction_time:0.6695504;trial_nr:59;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.544605
+346.358141619783	0	173177	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1048699
+348.744183929066	0	174370	Markers	visualFeedback:off
+351.28222893366	0	175639	box:spawned	box:spawned;condition:vibro;trial_nr:60;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.940546
+351.928240388729	0	175962	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6368234;trial_nr:60;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.940546;vibro_duration:0.1
+351.928240388729	0	175962	box:touched	box:touched;condition:vibro;reaction_time:0.6368234;trial_nr:60;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.940546
+352.040242374748	0	176018	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1110965
+354.420284577637	0	177208	Markers	visualFeedback:off
+356.888328340969	0	178442	box:spawned	box:spawned;condition:vibro;trial_nr:61;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.558909
+357.614341214624	0	178805	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7154915;trial_nr:61;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.558909;vibro_duration:0.1
+357.614341214624	0	178805	box:touched	box:touched;condition:vibro;reaction_time:0.7154915;trial_nr:61;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.558909
+357.714342987854	0	178855	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003682
+360.104385368067	0	180050	Markers	visualFeedback:off
+362.628430124408	0	181312	box:spawned	box:spawned;condition:vibro;trial_nr:62;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.850868
+363.354442998062	0	181675	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.71575;trial_nr:62;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.850868;vibro_duration:0.1
+363.356443033527	0	181676	box:touched	box:touched;condition:vibro;reaction_time:0.71575;trial_nr:62;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.850868
+363.456444806758	0	181726	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1004701
+365.84648718697	0	182921	Markers	visualFeedback:off
+368.282530382868	0	184139	box:spawned	box:spawned;condition:vibro;trial_nr:63;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.789926
+369.174546200085	0	184585	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.884582;trial_nr:63;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.789926;vibro_duration:0.1
+369.174546200085	0	184585	box:touched	box:touched;condition:vibro;reaction_time:0.884582;trial_nr:63;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.789926
+369.286548186104	0	184641	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1097493
+371.676590566316	0	185836	Markers	visualFeedback:off
+374.054632733741	0	187025	box:spawned	box:spawned;condition:vibro;trial_nr:64;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.743035
+374.634643018478	0	187315	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5693641;trial_nr:64;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.743035;vibro_duration:0.1
+374.636643053943	0	187316	box:touched	box:touched;condition:vibro;reaction_time:0.5693641;trial_nr:64;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.743035
+374.736644827174	0	187366	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005321
+377.126687207386	0	188561	Markers	visualFeedback:off
+378.790716713944	0	189393	box:spawned	box:spawned;condition:vibro;trial_nr:65;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.04898
+379.706732956736	0	189851	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.9047561;trial_nr:65;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.04898;vibro_duration:0.1
+379.706732956736	0	189851	box:touched	box:touched;condition:vibro;reaction_time:0.9047561;trial_nr:65;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.04898
+379.810734800896	0	189903	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.100691
+382.198777145644	0	191097	Markers	visualFeedback:off
+384.844824065327	0	192420	box:spawned	box:spawned;condition:vibro;trial_nr:66;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.97075
+385.368833357055	0	192682	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5145133;trial_nr:66;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.97075;vibro_duration:0.1
+385.368833357055	0	192682	box:touched	box:touched;condition:vibro;reaction_time:0.5145133;trial_nr:66;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.97075
+385.47083516575	0	192733	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1004006
+387.860877545963	0	193928	Markers	visualFeedback:off
+390.228919536064	0	195112	box:spawned	box:spawned;condition:vibro;trial_nr:67;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.6627
+390.874930991134	0	195435	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6368716;trial_nr:67;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.6627;vibro_duration:0.1
+390.882931132993	0	195439	box:touched	box:touched;condition:vibro;reaction_time:0.6368716;trial_nr:67;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.6627
+391.002933260869	0	195499	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1115113
+393.368975215506	0	196682	Markers	visualFeedback:off
+395.403011283017	0	197699	box:spawned	box:spawned;condition:vibro;trial_nr:68;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.501271
+396.171024901429	0	198083	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.758194;trial_nr:68;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.501271;vibro_duration:0.1
+396.171024901429	0	198083	box:touched	box:touched;condition:vibro;reaction_time:0.758194;trial_nr:68;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.501271
+396.273026710124	0	198134	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1039933
+398.661069054872	0	199328	Markers	visualFeedback:off
+401.041111257761	0	200518	box:spawned	box:spawned;condition:vibro;trial_nr:69;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.743699
+401.579120797742	0	200787	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5305903;trial_nr:69;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.743699;vibro_duration:0.1
+401.579120797742	0	200787	box:touched	box:touched;condition:vibro;reaction_time:0.5305903;trial_nr:69;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.743699
+401.689122748295	0	200842	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1065027
+404.079165128508	0	202037	Markers	visualFeedback:off
+406.569209281951	0	203282	box:spawned	box:spawned;condition:vibro;trial_nr:70;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.850576
+407.227220949808	0	203611	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6483333;trial_nr:70;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.850576;vibro_duration:0.1
+407.229220985273	0	203612	box:touched	box:touched;condition:vibro;reaction_time:0.6483333;trial_nr:70;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.850576
+407.333222829433	0	203664	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1012373
+409.719265138716	0	204857	Markers	visualFeedback:off
+412.007305710233	0	206001	box:spawned	box:spawned;condition:vibro;trial_nr:71;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.667823
+412.789319576896	0	206392	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7713089;trial_nr:71;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.667823;vibro_duration:0.1
+412.791319612361	0	206393	box:touched	box:touched;condition:vibro;reaction_time:0.7713089;trial_nr:71;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.667823
+412.893321421056	0	206444	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003113
+415.281363765804	0	207638	Markers	visualFeedback:off
+417.113396251389	0	208554	box:spawned	box:spawned;condition:vibro;trial_nr:72;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.092345
+417.951411111062	0	208973	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8271966;trial_nr:72;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.092345;vibro_duration:0.1
+417.951411111062	0	208973	box:touched	box:touched;condition:vibro;reaction_time:0.8271966;trial_nr:72;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.092345
+418.06341309708	0	209029	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.110334
+420.441455264505	0	210218	Markers	visualFeedback:off
+422.563492892459	0	211279	box:spawned	box:spawned;condition:vibro;trial_nr:73;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.651542
+423.187503957418	0	211591	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.614701;trial_nr:73;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.651542;vibro_duration:0.1
+423.189503992883	0	211592	box:touched	box:touched;condition:vibro;reaction_time:0.614701;trial_nr:73;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.651542
+423.295505872507	0	211645	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1010829
+425.68154818179	0	212838	Markers	visualFeedback:off
+428.127591555012	0	214061	box:spawned	box:spawned;condition:vibro;trial_nr:74;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.253671
+428.705601804285	0	214350	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5692639;trial_nr:74;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.253671;vibro_duration:0.1
+428.707601839749	0	214351	box:touched	box:touched;condition:vibro;reaction_time:0.5692639;trial_nr:74;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.253671
+428.809603648445	0	214402	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003556
+431.199646028657	0	215597	Markers	visualFeedback:off
+434.573705857459	0	217284	box:spawned	box:spawned;condition:vibro;trial_nr:75;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.103354
+435.18571670963	0	217590	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6032963;trial_nr:75;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.103354;vibro_duration:0.1
+435.18571670963	0	217590	box:touched	box:touched;condition:vibro;reaction_time:0.6032963;trial_nr:75;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.103354
+435.285718482861	0	217640	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005863
+437.677760898538	0	218836	Markers	visualFeedback:off
+439.553794164345	0	219774	box:spawned	box:spawned;condition:vibro;trial_nr:76;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.214244
+440.96981927329	0	220482	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:1.408696;trial_nr:76;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.214244;vibro_duration:0.1
+440.971819308755	0	220483	box:touched	box:touched;condition:vibro;reaction_time:1.408696;trial_nr:76;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.214244
+441.083821294773	0	220539	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1109847
+443.461863462198	0	221728	Markers	visualFeedback:off
+445.919907048207	0	222957	box:spawned	box:spawned;condition:vibro;trial_nr:77;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.749391
+446.789922475314	0	223392	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.8610442;trial_nr:77;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.749391;vibro_duration:0.1
+446.789922475314	0	223392	box:touched	box:touched;condition:vibro;reaction_time:0.8610442;trial_nr:77;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.749391
+446.891924284009	0	223443	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005239
+449.281966664221	0	224638	Markers	visualFeedback:off
+451.336003086378	0	225665	box:spawned	box:spawned;condition:vibro;trial_nr:78;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.355497
+452.128017130365	0	226061	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7822521;trial_nr:78;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.355497;vibro_duration:0.1
+452.128017130365	0	226061	box:touched	box:touched;condition:vibro;reaction_time:0.7822521;trial_nr:78;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.355497
+452.232018974525	0	226113	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1040656
+454.622061354737	0	227308	Markers	visualFeedback:off
+456.810100153024	0	228402	box:spawned	box:spawned;condition:vibro;trial_nr:79;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.479224
+457.612114374333	0	228803	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7938888;trial_nr:79;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.479224;vibro_duration:0.1
+457.614114409798	0	228804	box:touched	box:touched;condition:vibro;reaction_time:0.7938888;trial_nr:79;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.479224
+457.714116183029	0	228854	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.102609
+460.104158563241	0	230049	Markers	visualFeedback:off
+462.172195233651	0	231083	box:spawned	box:spawned;condition:vibro;trial_nr:80;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.449893
+462.71820491549	0	231356	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5359788;trial_nr:80;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.449893;vibro_duration:0.1
+462.720204950954	0	231357	box:touched	box:touched;condition:vibro;reaction_time:0.5359788;trial_nr:80;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.449893
+462.81820668872	0	231406	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1007941
+465.208249068933	0	232601	Markers	visualFeedback:off
+467.018281164407	0	233506	box:spawned	box:spawned;condition:vibro;trial_nr:81;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.345681
+467.744294038062	0	233869	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7143567;trial_nr:81;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.345681;vibro_duration:0.1
+467.744294038062	0	233869	box:touched	box:touched;condition:vibro;reaction_time:0.7143567;trial_nr:81;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.345681
+467.844295811292	0	233919	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1010382
+470.236338226969	0	235115	Markers	visualFeedback:off
+472.680381564726	0	236337	box:spawned	box:spawned;condition:vibro;trial_nr:82;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.734517
+473.350393445371	0	236672	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6590736;trial_nr:82;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.734517;vibro_duration:0.1
+473.350393445371	0	236672	box:touched	box:touched;condition:vibro;reaction_time:0.6590736;trial_nr:82;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.734517
+473.452395254067	0	236723	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1005614
+475.842437634279	0	237918	Markers	visualFeedback:off
+477.628469304178	0	238811	box:spawned	box:spawned;condition:vibro;trial_nr:83;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.081448
+479.102495441598	0	239548	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:1.462943;trial_nr:83;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.081448;vibro_duration:0.1
+479.104495477062	0	239549	box:touched	box:touched;condition:vibro;reaction_time:1.462943;trial_nr:83;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.081448
+479.204497250293	0	239599	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1007044
+481.594539630505	0	240794	Markers	visualFeedback:off
+483.684576691026	0	241839	box:spawned	box:spawned;condition:vibro;trial_nr:84;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.224464
+484.218586160077	0	242106	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5246344;trial_nr:84;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.224464;vibro_duration:0.1
+484.218586160077	0	242106	box:touched	box:touched;condition:vibro;reaction_time:0.5246344;trial_nr:84;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.224464
+484.320587968772	0	242157	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1009497
+486.710630348985	0	243352	Markers	visualFeedback:off
+489.256675495437	0	244625	box:spawned	box:spawned;condition:vibro;trial_nr:85;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885848
+489.914687163294	0	244954	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6484835;trial_nr:85;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885848;vibro_duration:0.1
+489.916687198759	0	244955	box:touched	box:touched;condition:vibro;reaction_time:0.6484835;trial_nr:85;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.885848
+490.01668897199	0	245005	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1002125
+492.406731352202	0	246200	Markers	visualFeedback:off
+494.562769583054	0	247278	box:spawned	box:spawned;condition:vibro;trial_nr:86;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.488319
+495.164780257903	0	247579	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5920072;trial_nr:86;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.488319;vibro_duration:0.1
+495.166780293368	0	247580	box:touched	box:touched;condition:vibro;reaction_time:0.5920072;trial_nr:86;normal_or_conflict:conflict;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.488319
+495.268782102063	0	247631	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.100514
+497.656824446811	0	248825	Markers	visualFeedback:off
+499.52085749983	0	249757	box:spawned	box:spawned;condition:vibro;trial_nr:87;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.160022
+500.268870763595	0	250131	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7372665;trial_nr:87;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.160022;vibro_duration:0.1
+500.268870763595	0	250131	box:touched	box:touched;condition:vibro;reaction_time:0.7372665;trial_nr:87;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.160022
+500.37087257229	0	250182	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1026161
+502.760914952502	0	251377	Markers	visualFeedback:off
+504.724949778752	0	252359	box:spawned	box:spawned;condition:vibro;trial_nr:88;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.278745
+505.338960666388	0	252666	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6032639;trial_nr:88;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.278745;vibro_duration:0.1
+505.338960666388	0	252666	box:touched	box:touched;condition:vibro;reaction_time:0.6032639;trial_nr:88;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.278745
+505.452962687871	0	252723	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1113821
+507.831004855296	0	253912	Markers	visualFeedback:off
+510.289048441305	0	255141	box:spawned	box:spawned;condition:vibro;trial_nr:89;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.801664
+510.791057342923	0	255392	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.4921119;trial_nr:89;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.801664;vibro_duration:0.1
+510.791057342923	0	255392	box:touched	box:touched;condition:vibro;reaction_time:0.4921119;trial_nr:89;normal_or_conflict:conflict;cube:CubeRight (UnityEngine.GameObject);isiTime:1.801664
+510.891059116153	0	255442	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1003413
+513.28310153183	0	256638	Markers	visualFeedback:off
+515.337137953988	0	257665	box:spawned	box:spawned;condition:vibro;trial_nr:90;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.423226
+516.039150402067	0	258016	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.6932256;trial_nr:90;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.423226;vibro_duration:0.1
+516.041150437531	0	258017	box:touched	box:touched;condition:vibro;reaction_time:0.6932256;trial_nr:90;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.423226
+516.143152246226	0	258068	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006119
+518.531194590974	0	259262	Markers	visualFeedback:off
+520.505229594547	0	260249	box:spawned	box:spawned;condition:vibro;trial_nr:91;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.385032
+521.223242326343	0	260608	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7088389;trial_nr:91;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.385032;vibro_duration:0.1
+521.223242326343	0	260608	box:touched	box:touched;condition:vibro;reaction_time:0.7088389;trial_nr:91;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.385032
+521.33924438329	0	260666	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1108733
+523.71528651525	0	261854	Markers	visualFeedback:off
+525.925325703648	0	262959	box:spawned	box:spawned;condition:vibro;trial_nr:92;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.543716
+526.505335988385	0	263249	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5692403;trial_nr:92;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.543716;vibro_duration:0.1
+526.505335988385	0	263249	box:touched	box:touched;condition:vibro;reaction_time:0.5692403;trial_nr:92;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.543716
+526.607337797081	0	263300	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008375
+528.997380177293	0	264495	Markers	visualFeedback:off
+530.673409896638	0	265333	box:spawned	box:spawned;condition:vibro;trial_nr:93;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.021125
+531.275420571487	0	265634	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5912929;trial_nr:93;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.021125;vibro_duration:0.1
+531.275420571487	0	265634	box:touched	box:touched;condition:vibro;reaction_time:0.5912929;trial_nr:93;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.021125
+531.377422380182	0	265685	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1024063
+533.767464760394	0	266880	Markers	visualFeedback:off
+535.977503948791	0	267985	box:spawned	box:spawned;condition:vibro;trial_nr:94;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.597278
+536.479512850409	0	268236	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.4917822;trial_nr:94;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.597278;vibro_duration:0.1
+536.479512850409	0	268236	box:touched	box:touched;condition:vibro;reaction_time:0.4917822;trial_nr:94;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.597278
+536.581514659104	0	268287	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.100845
+538.971557039317	0	269482	Markers	visualFeedback:off
+540.981592681253	0	270487	box:spawned	box:spawned;condition:vibro;trial_nr:95;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.39819
+541.707605554907	0	270850	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7161348;trial_nr:95;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.39819;vibro_duration:0.1
+541.707605554907	0	270850	box:touched	box:touched;condition:vibro;reaction_time:0.7161348;trial_nr:95;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.39819
+541.809607363602	0	270901	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.100644
+544.19764970835	0	272095	Markers	visualFeedback:off
+545.885679640483	0	272939	box:spawned	box:spawned;condition:vibro;trial_nr:96;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.046164
+546.453689712433	0	273223	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5581746;trial_nr:96;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.046164;vibro_duration:0.1
+546.453689712433	0	273223	box:touched	box:touched;condition:vibro;reaction_time:0.5581746;trial_nr:96;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.046164
+546.557691556593	0	273275	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1008356
+548.945733901341	0	274469	Markers	visualFeedback:off
+550.967769756064	0	275480	box:spawned	box:spawned;condition:vibro;trial_nr:97;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.479362
+551.691782594254	0	275842	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.7162685;trial_nr:97;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.479362;vibro_duration:0.1
+551.691782594254	0	275842	box:touched	box:touched;condition:vibro;reaction_time:0.7162685;trial_nr:97;normal_or_conflict:normal;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.479362
+551.805784615737	0	275899	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1105711
+554.183826783162	0	277088	Markers	visualFeedback:off
+555.937857885627	0	277965	box:spawned	box:spawned;condition:vibro;trial_nr:98;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.167459
+557.389883632936	0	278691	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:1.441254;trial_nr:98;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.167459;vibro_duration:0.1
+557.389883632936	0	278691	box:touched	box:touched;condition:vibro;reaction_time:1.441254;trial_nr:98;normal_or_conflict:normal;cube:CubeLeft (UnityEngine.GameObject);isiTime:1.167459
+557.491885441631	0	278742	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006199
+559.881927821843	0	279937	Markers	visualFeedback:off
+563.689995346466	0	281841	box:spawned	box:spawned;condition:vibro;trial_nr:99;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.464005
+564.280005808527	0	282136	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5803211;trial_nr:99;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.464005;vibro_duration:0.1
+564.280005808527	0	282136	box:touched	box:touched;condition:vibro;reaction_time:0.5803211;trial_nr:99;normal_or_conflict:normal;cube:CubeRight (UnityEngine.GameObject);isiTime:1.464005
+564.382007617222	0	282187	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1006554
+566.772049997434	0	283382	Markers	visualFeedback:off
+569.310095002028	0	284651	box:spawned	box:spawned;condition:vibro;trial_nr:100;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.927593
+569.820104045504	0	284906	box:touched	box:touched;condition:vibro;vibroFeedback:on;reaction_time:0.5016451;trial_nr:100;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.927593;vibro_duration:0.1
+569.822104080969	0	284907	box:touched	box:touched;condition:vibro;reaction_time:0.5016451;trial_nr:100;normal_or_conflict:conflict;cube:CubeMiddle (UnityEngine.GameObject);isiTime:1.927593
+569.922105854199	0	284957	vibroFeedback:off	vibroFeedback:off;vibroFeedbackDuration:0.1004516
