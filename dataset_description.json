@@ -19,7 +19,5 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds003846",
     "HowToAcknowledge": "See CITATION.cff",
     "License": "CC0",
-    "ReferencesAndLinks": [
-        "See CITATION.cff"
-    ]
+    "ReferencesAndLinks": []
 }
