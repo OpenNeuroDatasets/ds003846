@@ -1,3 +1,5 @@
+2.0.1 2024-03-01
+  - Fixed an error in sub-03 eeg events file of session 'Vibro101bis300'
 2.0.0 2024-02-28
   - Updated Motion spec, fixed metadata and events, added CITATION.cff
 1.0.0 2021-10-18
