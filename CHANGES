@@ -1,3 +1,5 @@
+2.0.2 2024-03-19
+  - Removed motion modality from sub-03 due to faults in the recording configuration
 2.0.1 2024-03-01
   - Fixed an error in sub-03 eeg events file of session 'Vibro101bis300'
 2.0.0 2024-02-28
