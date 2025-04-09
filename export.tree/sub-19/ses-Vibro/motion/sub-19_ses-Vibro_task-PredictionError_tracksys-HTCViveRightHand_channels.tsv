@@ -1,8 +1,0 @@
-name	type	units	sampling_frequency	tracking_system	tracked_point	component	placement
-handR_eul_x	ORNT	rad	89.5046972116581	HTCViveRightHand	handR	x	handR
-handR_eul_y	ORNT	rad	89.5046972116581	HTCViveRightHand	handR	y	handR
-handR_eul_z	ORNT	rad	89.5046972116581	HTCViveRightHand	handR	z	handR
-handR_cart_x	POS	m	89.5046972116581	HTCViveRightHand	handR	x	handR
-handR_cart_y	POS	m	89.5046972116581	HTCViveRightHand	handR	y	handR
-handR_cart_z	POS	m	89.5046972116581	HTCViveRightHand	handR	z	handR
-HTCViveRightHand_latency	LATENCY	seconds	89.5046972116581	HTCViveRightHand	n/a	n/a	n/a

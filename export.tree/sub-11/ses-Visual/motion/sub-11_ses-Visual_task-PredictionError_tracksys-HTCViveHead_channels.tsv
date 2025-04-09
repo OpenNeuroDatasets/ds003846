@@ -1,8 +1,0 @@
-name	type	units	sampling_frequency	tracking_system	tracked_point	component	placement
-Head_eul_x	ORNT	rad	89.5148083104563	HTCViveHead	Head	x	Head
-Head_eul_y	ORNT	rad	89.5148083104563	HTCViveHead	Head	y	Head
-Head_eul_z	ORNT	rad	89.5148083104563	HTCViveHead	Head	z	Head
-Head_cart_x	POS	m	89.5148083104563	HTCViveHead	Head	x	Head
-Head_cart_y	POS	m	89.5148083104563	HTCViveHead	Head	y	Head
-Head_cart_z	POS	m	89.5148083104563	HTCViveHead	Head	z	Head
-HTCViveHead_latency	LATENCY	seconds	89.5148083104563	HTCViveHead	n/a	n/a	n/a
