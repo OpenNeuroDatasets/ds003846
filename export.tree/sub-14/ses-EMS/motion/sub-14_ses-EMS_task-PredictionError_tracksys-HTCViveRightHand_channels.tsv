@@ -1,0 +1,8 @@
+name	type	units	sampling_frequency	tracking_system	tracked_point	component	placement
+handR_eul_x	ORNT	rad	87.8710380292889	HTCViveRightHand	handR	x	handR
+handR_eul_y	ORNT	rad	87.8710380292889	HTCViveRightHand	handR	y	handR
+handR_eul_z	ORNT	rad	87.8710380292889	HTCViveRightHand	handR	z	handR
+handR_cart_x	POS	m	87.8710380292889	HTCViveRightHand	handR	x	handR
+handR_cart_y	POS	m	87.8710380292889	HTCViveRightHand	handR	y	handR
+handR_cart_z	POS	m	87.8710380292889	HTCViveRightHand	handR	z	handR
+HTCViveRightHand_latency	LATENCY	seconds	87.8710380292889	HTCViveRightHand	n/a	n/a	n/a
